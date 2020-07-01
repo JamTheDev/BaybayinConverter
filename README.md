@@ -1,6 +1,7 @@
 # BaybayinConverter
 
 This is the official Tagalog to Tagalog-Baybayin converter for JAVA. I will soon add more dependencies for other language.
+NOTE: This is Android Studio Friendly too.
 
 # Usage - JAVA
 
